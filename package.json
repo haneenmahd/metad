@@ -1,0 +1,15 @@
+{
+  "name": "metad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "dev": "node bin/metad.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
