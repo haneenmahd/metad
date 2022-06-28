@@ -1,6 +1,6 @@
 {
   "name": "metad",
-  "version": "1.0.0-alpha",
+  "version": "1.0.0",
   "description": "MetaD is a cli tool to get the metadata related to a npm package.",
   "type": "commonjs",
   "main": "lib/index.js",
