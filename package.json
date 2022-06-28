@@ -1,7 +1,7 @@
 {
   "name": "metad",
-  "version": "1.0.0",
-  "description": "",
+  "version": "alpha-1.0.0",
+  "description": "MetaD is a cli tool to get the metadata related to a npm package.",
   "type": "commonjs",
   "main": "lib/index.js",
   "bin": {
@@ -14,7 +14,17 @@
   "scripts": {
     "dev": "node bin/metad.js"
   },
-  "keywords": [],
+  "homepage": "https://github.com/haneenmahd/metad",
+  "repository": {
+    "type": "git",
+    "url": "git:github.com/haneenmahd/metad.git"
+  },
+  "keywords": [
+    "cli",
+    "metadata",
+    "npm",
+    "package"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
